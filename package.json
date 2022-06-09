@@ -8,13 +8,13 @@
     "url": "https://baklai.github.io"
   },
   "keywords": [
-    "node.js"
+    "node.js",
+    "express"
   ],
   "license": "MIT",
   "scripts": {
     "dev": "nodemon index.js",
-    "start": "node index.js",
-    "build": "node index.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "bootstrap": "^5.1.3",
